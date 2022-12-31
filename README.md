@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Hey,+There!;I+am+Kareem+Shaban;&center=true&width=500&height=45" alt="kareemshaban">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Hey,+There!+👋;I+am+Kareem+Shaban;&center=true&width=500&height=45" alt="kareemshaban">
 </p>
-<h1 align="center">Hi 👋 I'm kareem shaban</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kareemshaban1&label=Profile%20views&color=0e75b6&style=flat" alt="kareemshaban1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
